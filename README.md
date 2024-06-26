@@ -13,5 +13,5 @@ Major work in the game was on player movement and player animations depending on
 To Run the game, download the project and run the Game Scene.
 
 Controls:
-Use A,D to move.
+Use A,D or Left and Right Arrow to move.
 Use Space to Jump.
