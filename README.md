@@ -1,5 +1,6 @@
 # Platformer2D
-Just a normal platformer
+Just a normal 2D platformer.
+
 Game is inspired from the old "[Dangerous Dave Game](https://en.wikipedia.org/wiki/Dangerous_Dave)" Game.
 This game doesn't have multiple levels.
 
