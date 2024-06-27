@@ -10,7 +10,7 @@ This game doesn't have multiple levels.
 
 Game info:
 Major work in the game was on player movement and player animations depending on the player state.
-To Run the game, download the project and run the Game Scene.
+To run the game, download the project and run the Game Scene.
 
 Controls:
 Use A,D or Left and Right Arrow to move.
